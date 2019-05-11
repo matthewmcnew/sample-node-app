@@ -1,0 +1,29 @@
+{
+  "name": "sample-node-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "chalk": "^2.4.2",
+    "cookie-parser": "~1.4.4",
+    "core-js": "^3.0.1",
+    "css-loader": "^2.1.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "hapi": "^18.1.0",
+    "http-errors": "~1.6.3",
+    "js-yaml": "^3.13.1",
+    "mongodb": "^3.2.4",
+    "mongose": "0.0.2-security",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11",
+    "react": "^16.8.6",
+    "redux": "^4.0.1",
+    "request": "^2.88.0",
+    "safe-mock": "^0.2.11",
+    "semver": "^6.0.0"
+  }
+}
